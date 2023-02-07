@@ -1,0 +1,35 @@
+h1 {
+    text-align: center
+}
+
+div  {
+    text-align: center
+}
+
+#image {
+    text-align: center
+}
+
+#product {
+    text-align: center
+}
+h1.top {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #B3E0EF;
+}
+body {
+    color:#366472;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #E8F3F6;
+    text-align: center;
+}
+a {
+    color:#366472;
+    text-align: center;
+}
+a:hover {
+    color: #F1BB52;
+}

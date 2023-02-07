@@ -1,0 +1,45 @@
+/* File created by Mia 11/9/22*/
+
+li{ 
+    background-color: #FFFACD;
+    border-width: 2px;
+    border-style: solid
+    }
+    li{ 
+    display: inline-block
+    }
+    h1 {
+        color: #DDA0DD
+    }
+    body {background-color: #FCF3E8  ;}
+    
+    h1 {
+        text-align: center;
+      }
+    
+      h1 {
+        font-size: 55px;
+      }
+    
+      h2 {
+        font-size: 20px;
+      }
+    
+      h2 {
+        text-align: center;
+      } 
+    
+      h3 {
+        text-align: center;
+      }
+    
+      h3 {
+        font-size: 30px;
+
+      }
+      h3 {
+        color: #DA70D6 
+      }
+      div {
+        font-size: 20px; 
+      }

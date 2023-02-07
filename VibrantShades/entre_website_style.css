@@ -1,0 +1,147 @@
+#navbar{
+    background-color:#ffccff; 
+    border-width: 1px;
+    border-style: solid
+}
+#navbar li{
+    display: inline-block;
+}
+img{
+    padding-top: 50px;
+  padding-right: 50px;
+  padding-bottom: 10px;
+  padding-left: 50px;
+}
+#navbar a{
+    color: black
+}
+
+body{
+    background-color: white;
+}
+h1{
+    text-align: center;
+    color:#EF8FDF;
+
+}
+h3{
+    text-align: center
+}
+
+#hello{
+    padding-bottom: 10px;
+    padding-right: 1100px;
+    padding-left: 70px;
+   }
+   
+   #hola{
+       padding-right: 1100px;
+       padding-left: 40px;
+   
+   }
+   #hiii{
+       padding-right: 400px;
+       padding-left: 780px;
+       margin-top: -345px;
+   }
+   
+   #ahola{
+       padding-right: 400px;
+       padding-left: 780px
+       
+   }
+   
+   #bonjur{
+       padding-right: 700px;
+       padding-left: 340px;
+       margin-top: -350px;
+       padding-bottom: 35px;
+   }
+   #OMMG{
+       padding-right: 720px;
+       padding-left: 360px;
+   }
+   #umm{
+       padding-right: 100px;
+       padding-left: 1100px;
+       margin-top: -230;
+   }
+    #yep{
+    padding-right: 100px;
+    padding-left: 1100px;
+}
+
+#hi1{
+    width:300px;
+    height:300px;
+}
+
+#hi{
+    width: 300px;
+    height:300px;
+}
+#hi2{
+    width: 300px;
+    height: 300px; 
+}
+
+#hi3{
+    width:580px;
+    height: 500px;
+
+}
+ 
+#hi4{
+    width:580px;
+    height: 500px;
+
+}
+
+p{
+    margin-left: 300px;
+    margin-right: 300px;
+    font-family: 'Gill Sans', 'Gills sans MT', 'Calibri','Trebuchet', 'sans-serif';
+    text-align: center;
+}
+#hello{
+    font-family: 'Gill Sans', 'Gills sans MT', 'Calibri','Trebuchet', 'sans-serif';
+}
+
+#ahola{
+    font-family: 'Gill Sans', 'Gills sans MT', 'Calibri','Trebuchet', 'sans-serif';
+}
+
+#OMMG{
+    font-family: 'Gill Sans', 'Gills sans MT', 'Calibri','Trebuchet', 'sans-serif';
+}
+
+#nope{
+    margin-right: 200px;
+    margin-left: 450px;
+}
+
+#bed{
+    font-family: 'Gill Sans', 'Gills sans MT', 'Calibri','Trebuchet', 'sans-serif';
+}
+
+#ced{
+    font-family: 'Gill Sans', 'Gills sans MT', 'Calibri','Trebuchet', 'sans-serif';
+}
+
+#ded{
+    font-family: 'Gill Sans', 'Gills sans MT', 'Calibri','Trebuchet', 'sans-serif';
+}
+
+
+#hope{
+    margin-right: 30px;
+    margin-left: 200px;
+}
+#glasses{
+    margin-left: -10px;
+    margin-right: 10px;
+}
+#flowersmv{
+    margin-left: 450px;
+    margin-right:100px;
+}

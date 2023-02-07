@@ -1,0 +1,68 @@
+body{
+    text-align: center;
+    }
+
+body {
+    background-image: linear-gradient(rgb(255, 255, 255), rgb(230, 160, 248));
+  }
+  
+h1 { 
+ size: 40px;
+ color: Black;
+ font-family: 'Brush Script MT', cursive;
+}
+
+  /* unvisited link */
+a:link {
+    color: rgb(241, 141, 141);
+  }
+  
+  /* visited link */
+  a:visited {
+    color: lightsalmon;
+  }
+  ul{
+    text-align: left;
+  }
+  /* mouse over link */
+  a:hover {
+    color: lightblue;
+  }
+  a:hover {font-size: 150%;}
+
+p {
+  font-family: 'Courier New', Courier, monospace;
+}
+#ourprocess {
+margin-left: 400px;
+margin-right:400px ;
+}
+#scrunchies {
+  margin-left: 400px;
+  margin-right: 400px;
+}
+
+#jellyfish {
+  margin-left: 400px;
+  margin-right:400px ;
+}
+#blah {
+  margin-left: 400px;
+  margin-right:400px ;
+}
+#grr {
+  margin-left: 400px;
+  margin-right:400px ;
+}
+#des2 {
+  margin-left: 400px;
+  margin-right:400px ;
+}
+#des {
+  margin-left: 400px;
+  margin-right:400px ;
+}
+#video {
+  margin-left: 400px;
+  margin-right:400px ;
+}

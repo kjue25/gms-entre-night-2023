@@ -1,0 +1,80 @@
+#navbar { 
+    background-color: lightpink;
+    border-style: solid;
+    border-width: .5mm;
+}
+
+#navbar li {
+    display: inline-block;
+}
+
+#navbar a {
+    color: black
+}
+
+#navbar a {
+    font-family: Papyrus;;
+}
+
+body {
+    background-color:hsl(43, 33%, 96%);   
+} 
+
+#navbar a:hover {
+    background-color: rgb(247, 226, 229);
+  }
+
+h1 {
+    color:black;
+}
+ h1, h2, h3, h4, p {
+    font-family: Papyrus;
+}
+
+tr, th, td {
+    font-family: Papyrus;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+
+img.one {
+    height: auto;
+    width: auto;
+}
+
+h1 {
+    font-size: 42px; 
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size:25px;
+
+}
+
+p {
+    font-size: 20px;
+}
+#navbar {
+    margin-left: 300px;
+    margin-right: 400px;
+    
+}
+
+    li {
+
+    margin-right: 100px; 
+    
+}
+h1, h2, h3 {
+    text-shadow: 2px 2px lightgrey;
+  }
+

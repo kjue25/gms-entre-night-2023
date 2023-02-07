@@ -1,0 +1,62 @@
+/*  */
+#Title{
+    border-style: dotted;
+}
+#navbar{
+    background-color: skyblue;
+    padding: 3px;
+    padding: skyblue;
+    font-size: 30px;
+    text-align: center;
+}
+#navbar li{
+    display: inline-block;
+}
+a{
+    color: royalblue;
+}
+a:hover{
+    color: plum;
+}
+html{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: lightskyblue;
+    margin-right: 50;
+    margin-left: 50;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#circleimg{
+    border-radius: 50%;
+}
+#roundedimg{
+    border-radius: 8px;
+}
+body{
+    background-color: rgb(240, 205, 228);
+}
+#sidebyside{
+    display: inline;
+    padding: 10;
+    margin-left: 20;
+    margin-right: 20;
+}
+#sidebyside2{
+    display: inline-block;
+    border-radius: 50%;
+    padding: 60px;
+    margin-left: 20;
+    margin-right: 20;
+}
+p{
+    text-align: center;
+    margin-left: 20;
+    margin-right: 20;
+}
+#margin{
+    margin-left: 20;
+    margin-right: 20;
+}

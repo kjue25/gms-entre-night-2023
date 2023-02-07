@@ -1,0 +1,132 @@
+/* made by Robin 11/8/22 */
+/*Anissa and Robin on 11/16*/
+body
+{
+  background-color: #cbe5f0;
+}
+#navbar li {
+    display: -moz-inline-stack
+}
+
+#navbar {
+    background-color: #cbe5f0;
+}
+.closebtn:hover {
+    color: rgb(157, 255, 234);
+  }
+
+ 
+  p {
+    text-align: center;
+  }
+
+ 
+  img {
+    margin-left: 600px;
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+  h2 {
+    text-align: center;
+  }
+
+  h3 {
+    text-align: center;
+  }
+
+.glow-on-hover {
+    width: 220px;
+    height: 50px;
+    border: none;
+    outline: none;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    position: relative;
+    z-index: 0;
+    border-radius: 10px;
+  }
+  
+  .glow-on-hover:before {
+    content: '';
+    background: linear-gradient(45deg, #8ecfe9, #ffffff, #9ef3b4);
+    position: absolute;
+    top: -2px;
+    left:-2px;
+    background-size: 400%;
+    z-index: -1;
+    filter: blur(5px);
+    width: calc(100% + 4px);
+    height: calc(100% + 4px);
+    animation: glowing 5s linear infinite;
+    opacity: 0;
+    transition: opacity .1s ease-in-out;
+    border-radius: 10px;
+  }
+  
+  .glow-on-hover:active {
+    color: #000
+  }
+  
+  .glow-on-hover:active:after {
+    background: transparent;
+  }
+  
+  .glow-on-hover:hover:before {
+    opacity: 1;
+  }
+  
+  .glow-on-hover:after {
+    z-index: -1;
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: rgba(235, 196, 245, 0.541);
+    left: 0;
+    top: 0;
+    border-radius: 10px;
+  }
+  
+  @keyframes glowing {
+    0% { background-position: 0 0; }
+    50% { background-position: 400% 0; }
+    100% { background-position: 0 0; }
+  }
+
+   h1 {
+    font-family: 'Dancing Script', cursive;
+   }
+   h2 {
+    font-family: 'Dancing Script', cursive;
+    margin: .2px
+   }
+   p {
+     font-size: 18px;
+     font-family: 'Tangerine', cursive;
+   }
+   p:hover {
+     font-size: 20px
+   }
+
+   img {
+     border: 8px solid rgb(94, 151, 226)
+   }
+
+   h3 {
+     font-family: 'Dancing Script', cursive;
+     font-size: 22px;
+   }
+
+   #logo {
+     margin-left: 450px;
+   }
+
+   #cogs {
+     margin-left: 350px;
+   }
+
+   video {
+    margin-left: 150px;

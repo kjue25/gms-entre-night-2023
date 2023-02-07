@@ -1,0 +1,35 @@
+    body {
+
+    background-color:rgb(172, 212, 172);
+
+}
+
+    img {
+        border: dotted 5px rgb(7, 75, 7);
+       
+}
+    
+    p {
+    text-align: center;
+    font-family: 'Merienda', cursive;
+    color: rgb(7, 75, 7)
+}
+
+h2 {
+    font-family: 'Bilbo Swash Caps';
+    
+    color: rgb(7, 75, 7)
+    
+}
+
+p center {
+    font-family: 'Merienda', cursive;
+    color: rgb(7, 75, 7)
+}
+
+h1 {
+    
+    font-family: 'Bilbo Swash Caps';
+    font-size: 70px
+    color: rgb(7, 75, 7)
+}

@@ -1,0 +1,86 @@
+
+
+
+
+
+
+    <link rel="stylesheet" href="company.html"> 
+
+ 
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="stylesheet" href="Index.html">
+
+    <link rel="stylesheet" href="home.html">
+
+    <link rel="stylesheet" href="style.css">
+
+body{
+  backround-color:
+}
+h1 {
+    border:;
+    font-size;;
+    font-family:;
+
+
+}
+h2{
+    color:;
+    font-size:;
+    font-family:;
+}
+
+
+.topnav {
+    overflow: hidden;
+    background-color: rgb(166, 171, 248);
+  }
+  
+  .topnav a {
+    float: left;
+    color: #412594;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: rgb(217, 246, 247);
+    color: rgb(83, 12, 97);
+  }
+  
+  .topnav a.active {
+    background-color: rgb(111, 233, 188);
+    color: white;
+  }
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+
+
+
+
+
+h2 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+h4 {
+  text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
